@@ -16,13 +16,6 @@
     Resume
     </h2>
 </summary>
-
- <details>
-  <summary><h4> <img align="center" src="https://github.com/Ferituaku/Ferituaku/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-Diponegoro_University-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-3.48-EFEEE9?style=for-the-badge"></span>
- </details>
-
  <details>
   <summary><h4> <img align="center" src="https://github.com/Ferituaku/Ferituaku/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
   - **Fullstack Web Developer ** at SIT (Sisterm Informasi Terpadu) | 4 Months
