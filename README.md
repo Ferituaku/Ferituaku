@@ -12,7 +12,7 @@
 <details>
  <summary>
     <h2> 
-      <img align="center" src="https://github.com/Ferituaku/Ferituaku/blob/main/icons/about.png" width="37" /> 
+      💼
     Resume
     </h2>
 </summary>
