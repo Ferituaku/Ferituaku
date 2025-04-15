@@ -49,11 +49,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferituaku&show_icons=true&theme=radical" alt="Ferro's GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferituaku&layout=compact&theme=radical" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferituaku&theme=radical" alt="GitHub Streak" />
 </div>
 
