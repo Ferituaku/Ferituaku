@@ -49,10 +49,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferituaku&layout=compact&theme=material-palenight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferituaku&layout=compact&theme=swift" alt="Top Languages" height="170" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferituaku&theme=material-palenight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferituaku&theme=swift" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Connect with me
