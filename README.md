@@ -90,6 +90,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/ferituaku/ferituaku/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Ferituaku/Ferituaku/blob/output/github-contribution-grid-snake.svg)
   
 </div>
