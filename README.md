@@ -13,9 +13,9 @@
 ## 💫 About Me
 
 - 🔭 I'm currently studying on **Diponegoro University**
-- 🌱 I'm currently learning **JavaScript and React**
-- 💬 Ask me about **Web Development, Fullstack Solutions, LLM Generative AI**
-- 📫 How to reach me: **ferismegg123@example.com**
+- 🌱 I'm currently learning **JavaScript, React, Generative AI Engineering**
+- 💬 Ask me about **Web Development, Fullstack Solutions, Generative AI**
+- 📫 How to reach me: **ferismegg123@gmail.com**
 
 ## 🚀 Skills
 
