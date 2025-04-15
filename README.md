@@ -12,11 +12,10 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on **Web Development Projects**
-- 🌱 I'm currently learning **Advanced JavaScript and React**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Fullstack Solutions**
-- 📫 How to reach me: **email@example.com**
+- 🔭 I'm currently studying on **Diponegoro University**
+- 🌱 I'm currently learning **JavaScript and React**
+- 💬 Ask me about **Web Development, Fullstack Solutions, LLM Generative AI**
+- 📫 How to reach me: **ferismegg123@example.com**
 
 ## 🚀 Skills
 
@@ -34,7 +33,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,express,php" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,php" />
   </a>
 </p>
 
@@ -42,7 +41,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" />
   </a>
 </p>
 </div>
@@ -67,7 +66,7 @@
   <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/ysnd.ro" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://youtube.com/FerIsMe" target="_blank">
