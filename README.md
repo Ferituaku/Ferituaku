@@ -1,30 +1,96 @@
-<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm Ferro</h1>
-<h2 align="center">
-  Fullstack Developer
-  <a href="https://[your-portfolio-link]">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-</h2>
-<div align="center"> 
-  <img align="right" alt="Coding" width="400" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0c34272909ee2a4db5606a014082312b%2Ftenor.gif%3Fitemid%3D15828752">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ferro;Fullstack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-<details>
- <summary>
-    <h2> 
-      💼
-    Resume
-    </h2>
-</summary>
- <details>
-  <summary><h4> <img align="center" src="https://github.com/Ferituaku/Ferituaku/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **Fullstack Web Developer ** at SIT (Sisterm Informasi Terpadu) | 4 Months
- </details>
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://x.com/ptrysnd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-  <a class="bg-red" href="https://youtube.com/FerIsMe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-  </p>
-</details>
+<h3 align="center">Fullstack Developer <a href="https://[your-portfolio-link]"><img src="https://img.shields.io/badge/PORTFOLIO-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="22"></a></h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ferituaku&label=Profile%20views&color=0e75b6&style=flat" alt="ferituaku" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 💫 About Me
+
+- 🔭 I'm currently working on **Web Development Projects**
+- 🌱 I'm currently learning **Advanced JavaScript and React**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development, Fullstack Solutions**
+- 📫 How to reach me: **email@example.com**
+
+## 🚀 Skills
+
+<div align="center">
+  
+### Front-End
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  </a>
+</p>
+
+### Back-End
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,express,php" />
+  </a>
+</p>
+
+### Database & Tools
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode" />
+  </a>
+</p>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferituaku&show_icons=true&theme=radical" alt="Ferro's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferituaku&layout=compact&theme=radical" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferituaku&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://twitter.com/ptrysnd" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/FerIsMe" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+## 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/ferituaku/undip_booking-lapangan-basket">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=undip_booking-lapangan-basket&theme=radical" alt="Project 1" />
+  </a>
+  <a href="https://github.com/ferituaku/project-web-sit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=project-web-sit&theme=radical" alt="Project 2" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/ferituaku/Tubes_Machine_learning_Economy_Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=Tubes_Machine_learning_Economy_Prediction&theme=radical" alt="Project 3" />
+  </a>
+</div>
+
+<div align="center">
+
+</div>
