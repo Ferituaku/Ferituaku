@@ -49,10 +49,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferituaku&layout=compact&theme=codeSTACKr" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferituaku&layout=compact&theme=material-palenight" alt="Top Languages" height="170" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferituaku&theme=codeSTACKr" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferituaku&theme=material-palenight" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Connect with me
@@ -76,15 +76,15 @@
 
 <div align="center">
   <a href="https://github.com/ferituaku/undip_booking-lapangan-basket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=undip_booking-lapangan-basket&theme=codeSTACKr" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=undip_booking-lapangan-basket&theme=catppuccin_latte" alt="Project 1" />
   </a>
   <a href="https://github.com/ferituaku/project-web-sit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=project-web-sit&theme=codeSTACKr" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=project-web-sit&theme=catppuccin_latte" alt="Project 2" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/ferituaku/Tubes_Machine_learning_Economy_Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=Tubes_Machine_learning_Economy_Prediction&theme=codeSTACKr" alt="Project 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=Tubes_Machine_learning_Economy_Prediction&theme=catppuccin_latte" alt="Project 3" />
   </a>
 </div>
 
