@@ -50,6 +50,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferituaku&layout=compact&theme=radical" alt="Top Languages" height="170" />
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferituaku&theme=radical" alt="GitHub Streak" />
 </div>
 
