@@ -197,7 +197,7 @@
           <br><br>
           <p>
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Streamlit-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Streamlit-11224E?style=for-the-badge&logo=streamlit&logoColor=white"/>
           </p>
           <p><strong>Machine learning model for economic trend prediction and analysis</strong></p>
         </div>
