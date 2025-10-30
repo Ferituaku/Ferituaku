@@ -181,6 +181,7 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     </p>
     <p><strong>University admission website prototype with user-friendly navigation and responsive design</strong></p>
   </div>
@@ -196,7 +197,7 @@
           <br><br>
           <p>
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Streamlit-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
           </p>
           <p><strong>Machine learning model for economic trend prediction and analysis</strong></p>
         </div>
