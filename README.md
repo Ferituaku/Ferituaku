@@ -150,31 +150,40 @@
     <tr>
       <td width="50%">
         <h3 align="center">🎗️ WASKITA By STOPHiva elearning website</h3>
-        <div align="center">  
-          <a href="https://github.com/ferituaku/undip_booking-lapangan-basket">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=waskita&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Waskita Elearning" />
-          </a>
-          <br><br>
-          <p>
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-          </p>
-          <p><strong>Web-based system for providing education and support for HIV/AIDS awareness and prevention. </strong></p>
-        </div>
+       <div align="center">  
+    <a href="https://github.com/ferituaku/waskita">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=waskita&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Waskita Elearning" />
+    </a>
+    <br><br>
+    <p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </p>
+    <p><strong>E-learning platform for HIV/AIDS awareness, education, and prevention support</strong></p>
+  </div>
       </td>
       <td width="50%">
         <h3 align="center">🏫 Web Project SIT</h3>
         <div align="center">  
-          <a href="https://github.com/ferituaku/project-web-sit">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=project-web-sit&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Web SIT" />
-          </a>
-          <br><br>
-          <p>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-          </p>
-          <p><strong>A prototype admission website for a university, featuring user-friendly navigation and responsive design.</strong></p>
-        </div>
+    <a href="https://github.com/ferituaku/project-web-sit">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=project-web-sit&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Web SIT" />
+    </a>
+    <br><br>
+    <p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    </p>
+    <p><strong>University admission website prototype with user-friendly navigation and responsive design</strong></p>
+  </div>
       </td>
     </tr>
     <tr>
