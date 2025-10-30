@@ -27,23 +27,61 @@
 <!-- About Me Section with GIF -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 👨‍💻 About Me
-```typescript
-const ferro = {
-    location: "Semarang, Indonesia 🇮🇩",
-    education: "Diponegoro University 🎓",
-    role: "Fullstack Developer",
-    currentFocus: ["Generative AI", "React", "Node.js"],
-    askMeAbout: ["Web Dev", "AI", "Tech", "Coffee ☕"],
-    technologies: {
-        frontEnd: ["React", "JavaScript", "Tailwind", "HTML/CSS"],
-        backEnd: ["Node.js", "Python", "PHP"],
-        databases: ["MySQL", "PostgreSQL"],
-        tools: ["Git", "VS Code", "Postman"]
-    },
-    funFact: "I debug with console.log() 🐛"
-};
-```
+<!-- About Me Section -->
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/student-male--v1.png" width="80"/>
+<br><strong>Education</strong>
+<br>Diponegoro University
+<br>Computer Science Student
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="80"/>
+<br><strong>Role</strong>
+<br>Fullstack Developer
+<br>Generative AI Enthusiast
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/marker.png" width="80"/>
+<br><strong>Location</strong>
+<br>Semarang, Indonesia 🇮🇩
+<br>Open to Remote Work
+</td>
+</tr>
+</table>
+
+</div>
+
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 🎯 Current Focus:
+- 🤖 Building AI-powered web applications
+- ⚛️ Mastering React ecosystem
+- 🚀 Exploring Node.js & backend technologies
+- 📚 Learning modern web architectures
+
+### 💬 Ask Me About:
+- 🌐 **Web Development** - Frontend & Backend
+- 🔧 **Fullstack Solutions** - End-to-end development
+- 🤖 **Generative AI** - Integration & implementation
+- ☕ **Coffee** - The developer's fuel!
+
+### 📫 How to Reach Me:
+<p>
+<a href="mailto:ferismegg123@gmail.com">
+<img src="https://img.shields.io/badge/Email-ferismegg123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+### ⚡ Fun Fact:
+> *"I debug with console.log() and I'm not ashamed! 🐛"*
+
+<br clear="right"/>
 
 <br clear="right"/>
 
