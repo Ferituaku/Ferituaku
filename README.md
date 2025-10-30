@@ -23,9 +23,7 @@
 </p>
 
 ---
-
-<!-- About Me Section with GIF -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <!-- About Me Section -->
 <h2 align="center">👨‍💻 About Me</h2>
