@@ -68,9 +68,6 @@
 </a>
 </p>
 
-### ⚡ Fun Fact:
-> *"I debug with console.log() and I'm not ashamed! 🐛"*
-
 <br clear="right"/>
 
 <br clear="right"/>
@@ -84,7 +81,7 @@
 
 #### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=light" />
 </p>
 
 #### ⚙️ Backend Development
@@ -94,7 +91,7 @@
 
 #### 🗄️ Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light" />
 </p>
 
 #### 🔧 Tools & Others
@@ -152,21 +149,21 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🏀 Basketball Court Booking</h3>
+        <h3 align="center">🎗️ WASKITA By STOPHiva elearning website</h3>
         <div align="center">  
           <a href="https://github.com/ferituaku/undip_booking-lapangan-basket">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=undip_booking-lapangan-basket&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Basketball Booking" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=waskita&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Waskita Elearning" />
           </a>
           <br><br>
           <p>
             <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
           </p>
-          <p><strong>Web-based system for managing basketball court bookings at Diponegoro University</strong></p>
+          <p><strong>Web-based system for providing education and support for HIV/AIDS awareness and prevention. </strong></p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🌐 Web Project SIT</h3>
+        <h3 align="center">🏫 Web Project SIT</h3>
         <div align="center">  
           <a href="https://github.com/ferituaku/project-web-sit">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=project-web-sit&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Web SIT" />
@@ -176,7 +173,7 @@
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
           </p>
-          <p><strong>Information system web application with modern UI/UX design</strong></p>
+          <p><strong>A prototype admission website for a university, featuring user-friendly navigation and responsive design.</strong></p>
         </div>
       </td>
     </tr>
