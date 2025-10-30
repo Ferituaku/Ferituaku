@@ -57,14 +57,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-### 🎯 Current Focus:
-- 🤖 Building AI-powered web applications
-- ⚛️ Mastering React ecosystem
-- 🚀 Exploring Node.js & backend technologies
-- 📚 Learning modern web architectures
-
 ### 💬 Ask Me About:
 - 🌐 **Web Development** - Frontend & Backend
 - 🔧 **Fullstack Solutions** - End-to-end development
