@@ -12,6 +12,7 @@ I'm a Cumlaude Computer Science graduate (GPA 3.60/4.00) from Universitas Dipone
 📍 Based in Semarang, Indonesia · Open to remote work
 📄 Certified: Alibaba Cloud Certified Associate – Cloud Computing
 <br/>
+
 🛠️ Tech Stack
 <div align="center">
 
@@ -25,17 +26,8 @@ AI / ML / NLP <br/> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,
 
 Tools <br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=light" />
 
-</div> <br/>
-🌟 Featured Projects
-Project	Description	Stack
-Cahaya Silver (Silver King by CAI)	Dual-interface luxury precious-metals e-commerce platform serving 500+ customers and 1,000+ products, with a gold-authenticator scanner and Cloudflare R2 CDN cutting load times by 40%.	Next.js TypeScript Framer Motion Cloudflare R2
-WASKITA E-Learning	End-to-end HIV/AIDS education platform with gamified quizzes, role-based auth, and a LangChain-powered anonymous health chatbot orchestrated via n8n. Secured IDR 40M in university funding.	Next.js 15 LangChain n8n MySQL
-Astra Monitoring Dashboard	Full-stack monitoring dashboard built during my internship at PT Astra International, giving real-time visibility into 7+ active projects and cutting manual reporting time by 50%.	Next.js Flask REST API
-SIT — Sistem Informasi Terpadu	Integrated information system prototype for Informatics students, covering scheduling and student-data workflows end to end.	Laravel PHP Bootstrap
-Economic Prediction ML	Machine learning model forecasting economic trends, deployed as an interactive Streamlit app.	Python Streamlit scikit-learn
-<br/>
-📊 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ferituaku&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&title_color=6366F1&icon_color=0EA5E9" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferituaku&layout=compact&hide_border=true&theme=default&title_color=6366F1&langs_count=7" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferituaku&hide_border=true&theme=default&stroke=6366F1&ring=0EA5E9&fire=0EA5E9&currStreakLabel=6366F1" /> </div> <br/>
+</div> <br/>--- <!-- GitHub Analytics --><h2 align="center">📊 GitHub Analytics</h2> <div align="center">  <table width="100%">    <tr>      <td width="50%" align="center">        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferituaku&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=9CA3AF" alt="GitHub Stats" />      </td>      <td width="50%" align="center">        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferituaku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=9CA3AF&langs_count=6" alt="Top Langs" />      </td>    </tr>    <tr>      <td width="50%" align="center" colspan="2" style="padding-top:15px">        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferituaku&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=3B82F6&fire=F59E0B&currStreakLabel=9CA3AF" alt="GitHub Streak" />      </td>    </tr>  </table></div> <br/>
+
 🤝 Let's Connect
 
 I'm actively looking for full-time roles in Full-Stack Web Development and Generative AI / NLP Engineering. Feel free to reach out via email or LinkedIn — always happy to talk about products, NLP, or Indonesian tech.
