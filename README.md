@@ -1,7 +1,6 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=200&section=header&text=Al%20Ferro%20Putra%20Yusanda&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Web%20Developer%20%7C%20Generative%20AI%20%2F%20NLP%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://linkedin.com/in/al-ferro-putra-yusanda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="mailto:alferroputra1313@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://github.com/Ferituaku"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
+<div align="center">  <a href="https://linkedin.com/in/ferituaku" target="_blank">    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />  </a>  <a href="https://twitter.com/ptrysnd" target="_blank">    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />  </a>  <a href="https://instagram.com/ysnd.ro" target="_blank">    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />  </a>  <a href="mailto:ferismegg123@gmail.com" target="_blank">    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />  </a></div>
 </div> <br/>
 👋 About Me
 
