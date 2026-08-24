@@ -28,8 +28,28 @@ Tools <br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,f
 
 </div> <br/>--- <!-- GitHub Analytics --><h2 align="center">📊 GitHub Analytics</h2> <div align="center">  <table width="100%">    <tr>      <td width="50%" align="center">        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferituaku&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=9CA3AF" alt="GitHub Stats" />      </td>      <td width="50%" align="center">        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferituaku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=9CA3AF&langs_count=6" alt="Top Langs" />      </td>    </tr>    <tr>      <td width="50%" align="center" colspan="2" style="padding-top:15px">        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferituaku&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=3B82F6&fire=F59E0B&currStreakLabel=9CA3AF" alt="GitHub Streak" />      </td>    </tr>  </table></div> <br/>
 
+<a href="https://github.com/ferituaku/waskita">          
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=waskita&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Waskita Elearning" />        
+</a>        
+<br><br>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white"/>          
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/>          
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6"/>          
+  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC"/>        
+</p>        
+<p>
+  <i>E-learning platform for HIV/AIDS awareness.</i>
+</p>      
+</td>      
+<td width="50%" align="center">        
+  <h3>🏫 Web Project SIT</h3>        
+  <a href="https://github.com/ferituaku/project-web-sit">          
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=project-web-sit&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Web SIT" />        </a>        <br><br>        <p>          <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20"/>          <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4"/>          <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3"/>        </p>        <p><i>University admission website prototype.</i></p>      </td>    </tr>    <tr>      <td width="50%" align="center">        <h3>📈 Economic Prediction ML</h3>        <a href="https://github.com/ferituaku/Tubes_Machine_learning_Economy_Prediction">          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferituaku&repo=Tubes_Machine_learning_Economy_Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ML Economy" />        </a>        <br><br>        <p>          <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>          <img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>        </p>        <p><i>Machine learning model for economic trends.</i></p>      </td>      <td width="50%" align="center">        <h3>✨ More Projects</h3>        <br>        <p>Check out more of my open-source work!</p>        <a href="https://github.com/ferituaku?tab=repositories">          <img src="https://img.shields.io/badge/View_All_Repos-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>        </a>      </td>    </tr>  </table></div> <br/>
+
 🤝 Let's Connect
 
 I'm actively looking for full-time roles in Full-Stack Web Development and Generative AI / NLP Engineering. Feel free to reach out via email or LinkedIn — always happy to talk about products, NLP, or Indonesian tech.
 
+<img src="https://count.getloli.com/get/@ferituaku?theme=rule34" alt="Visitor Count" />
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=100&section=footer" width="100%"/> </div>
