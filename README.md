@@ -71,8 +71,8 @@ I'm a Cumlaude Computer Science graduate (GPA 3.60/4.00) from **Universitas Dipo
 
 ## 📊 GitHub Analytics
 
-<div align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ferituaku&layout=compact&hide_border=true&theme=onedark&title_color=6366F1&langs_count=7" height="165" /> <br/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferituaku&hide_border=true&theme=onedark&stroke=6366F1&ring=0EA5E9&fire=0EA5E9&currStreakLabel=6366F1" /> </div> <br/>
+<div align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ferituaku&layout=compact&hide_border=true&theme=dark&title_color=6366F1&langs_count=7" height="165" /> <br/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferituaku&hide_border=true&theme=dark&stroke=6366F1&ring=0EA5E9&fire=0EA5E9&currStreakLabel=6366F1" /> </div> <br/>
 
 </div>
 
